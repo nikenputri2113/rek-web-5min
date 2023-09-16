@@ -1,0 +1,13 @@
+Kelebihan dan kekurangan bahasa pemrograman PHP 7 yaitu:
+
+*Kelebihan pemrograman PHP 7 yaitu:
+1. PHP bersifat open source, artinya dapat digunakan oleh siapa saja secara gratis.
+2. PHP tidak memerlukan compile dalam penggunaannya.
+3. Banyak Web Server yang mendukung PHP seperti Apache.
+4. Aplikasi PHP lebih cepat dibandingkan dengan Java.
+5. Pengembangan Aplikasi PHP mudah karena banyak Dokumentasi, Referensi Developer yang membantu dalam pengembangannya.
+
+*Kekurangan pemrograman PHP 7 yaitu:
+1. PHP memiliki kelemahan keamanan. Jadi programmer harus hati-hati dalam melakukan konfigurasi PHP.
+2. PHP tidak ada Package.
+3. Jika tidak di encoding, maka kodenya bisa dibaca semua orang. 
